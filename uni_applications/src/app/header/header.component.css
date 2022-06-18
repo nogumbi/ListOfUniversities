@@ -1,0 +1,22 @@
+.navbar {
+    background-image: linear-gradient(to right,#141b29,#36204e,#984673,#edc7b4,#f8f7f4);
+}
+
+.navbar-brand { 
+    color: whitesmoke;
+}
+
+
+a:link, a:visited {
+    /* float: right; */
+    color: #36204e;
+    /* border: 2px solid #36204e; */
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #36204e;
+    color: white;
+  }
